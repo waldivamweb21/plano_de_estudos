@@ -20,3 +20,18 @@ Antes de começar atualize o sistema
 **Nível Iniciante**
 
 - Introdução ao ecossistema Java -[acesse o curso](https://web.dio.me/course/introducao-ao-ecossistema-e-documentacao-java/learning/54e1ad91-8842-4065-bc89-37329f54f0cd/?back=/home)
+
+Metas do mês de Outubro:
+
+- [] Introdução ao ecossistema Java
+- [] Ambiente desenvolvimento Java
+- [] Dominando IDEs com Java
+
+Tasks para continuar evoluindo:
+
+- [] Começar a estudar Java
+- [] Assistir ao curso
+- [] Fazer Anotações
+- [] Fazer os Projetos sozinho
+- [] Tirar Dúvidas
+- [] Done! 🎊
