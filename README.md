@@ -14,6 +14,8 @@ Este roadmap é voltado para iniciantes que desejam ingressar na área de progra
 
 `` System.out.println("Hello World! Sua Jornada Começou!"); ``
 
+Antes de começar atualize o sistema
+`` sudo apt-get update ``
 
 **Nível Iniciante**
 
