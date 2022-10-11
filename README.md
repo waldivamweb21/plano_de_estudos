@@ -24,14 +24,14 @@ Antes de começar atualize o sistema
 Metas do mês de Outubro:
 
 - [x] Introdução ao ecossistema Java
-- [] Ambiente desenvolvimento Java
-- [] Dominando IDEs com Java
+- [ ] Ambiente desenvolvimento Java
+- [ ] Dominando IDEs com Java
 
 Tasks para continuar evoluindo:
 
-- [] Começar a estudar Java
-- [] Assistir ao curso
-- [] Fazer Anotações
-- [] Fazer os Projetos sozinho
-- [] Tirar Dúvidas
-- [] Done! 🎊
+- [ ] Começar a estudar Java
+- [ ] Assistir ao curso
+- [ ] Fazer Anotações
+- [ ] Fazer os Projetos sozinho
+- [ ] Tirar Dúvidas
+- [ ] Done! 🎊
