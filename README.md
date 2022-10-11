@@ -23,7 +23,7 @@ Antes de começar atualize o sistema
 
 Metas do mês de Outubro:
 
-- [] Introdução ao ecossistema Java
+- [x] Introdução ao ecossistema Java
 - [] Ambiente desenvolvimento Java
 - [] Dominando IDEs com Java
 
