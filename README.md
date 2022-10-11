@@ -10,6 +10,11 @@ Este roadmap é voltado para iniciantes que desejam ingressar na área de progra
 
 ## Cursos ordenados por nível de dificuldade
 
+> "Quem nunca errou, nunca tentou algo novo!" Albert Einsten
+
+`` System.out.println("Hello World! Sua Jornada Começou!"); ``
+
+
 **Nível Iniciante**
 
 - Introdução ao ecossistema Java -[acesse o curso](https://web.dio.me/course/introducao-ao-ecossistema-e-documentacao-java/learning/54e1ad91-8842-4065-bc89-37329f54f0cd/?back=/home)
