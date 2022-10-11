@@ -1,4 +1,4 @@
-# Plano_De_Estudos
+# Plano_De_Estudos 2022
 
 ## Criando um plano de estudo em Java com GitHub 
 
@@ -21,17 +21,37 @@ Antes de começar atualize o sistema
 
 - Introdução ao ecossistema Java -[acesse o curso](https://web.dio.me/course/introducao-ao-ecossistema-e-documentacao-java/learning/54e1ad91-8842-4065-bc89-37329f54f0cd/?back=/home)
 
-Metas do mês de Outubro:
+### Grade do Curso Introdução ao Java:
 
-- [x] Introdução ao ecossistema Java
-- [ ] Ambiente desenvolvimento Java
-- [ ] Dominando IDEs com Java
+- [x] Prepare-se Para a Jornada(Onboarding)
 
-Tasks para continuar evoluindo:
+- [ ] Princípios Do Desenvolvimento
 
-- [ ] Começar a estudar Java
-- [ ] Assistir ao curso
-- [ ] Fazer Anotações
+- [ ] Conhecendo A Linguagem De Programação Java
+
+- [ ] Dominando Algoritmos Básicos com Desafios de Código Java
+
+- [ ] Programação Orientada A Objetos Com Java
+
+- [ ] Ganhando Produtividade Com Spring Framework
+
+- [ ] Dominando Algoritmos Intermediarios Com Desafios de Código Java 
+
+- [ ] Fortalecendo a Carreira Profissional
+
+**Metas do mês de Outubro:**
+
+- [x] Prepare-se Para a Jornada(Onboarding) Data_Conclusão(08/10/2022)
+
+- [ ] Princípios Do Desenvolvimento
+
+- [ ] Conhecendo A Linguagem De Programação Java
+
+**Tasks para continuar evoluindo:**
+
+- [x] Começar a estudar Java
+- [x] Assistir ao curso
+- [x] Fazer Anotações
 - [ ] Fazer os Projetos sozinho
 - [ ] Tirar Dúvidas
 - [ ] Done! 🎊
