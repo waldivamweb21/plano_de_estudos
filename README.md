@@ -12,4 +12,4 @@ Este roadmap é voltado para iniciantes que desejam ingressar na área de progra
 
 **Nível Iniciante**
 
-- Introdução ao ecossistema Java - [acesse o curso] (https://web.dio.me/course/introducao-ao-ecossistema-e-documentacao-java/learning/54e1ad91-8842-4065-bc89-37329f54f0cd/?back=/home)
+- Introdução ao ecossistema Java -[acesse o curso](https://web.dio.me/course/introducao-ao-ecossistema-e-documentacao-java/learning/54e1ad91-8842-4065-bc89-37329f54f0cd/?back=/home)
