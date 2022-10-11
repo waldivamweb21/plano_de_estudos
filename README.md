@@ -6,4 +6,4 @@ Este roadmap é voltado para iniciantes que desejam ingressar na área de progra
 
 [OBS] Dentro do mundo do desenvolvimento você pode seguir diversos caminhos. Alguns deles, com Java, estão citados abaixo: Web, Mensageria, teste ... 
 
-![java](https://user-images.githubusercontent.com/91624443/194970256-98cc3085-c26d-4b1a-b14e-c14ba50ae196.jpg)
+![javas](https://user-images.githubusercontent.com/91624443/194970655-d71fee2c-a2e7-44a6-a367-e24fbc261bcf.jpg)
