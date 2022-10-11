@@ -1,4 +1,4 @@
-# plano_de_estudos
+# Plano_De_Estudos
 
 ## Criando um plano de estudo em Java com GitHub 
 
